@@ -96,6 +96,9 @@ Songs are stored in a **Binary Search Tree** where each node holds a pointer to 
 
 - **Language:** C++
 - **Data Structure:** Binary Search Tree (BST)
+- Stack
+- LinkedList
+- Queue
 - **IDE:** Microsoft Visual Studio
 
 ---
