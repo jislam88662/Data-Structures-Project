@@ -1,0 +1,18 @@
+﻿  Node.cpp
+  Playlist.cpp
+C:\Users\HP\AppData\Local\Temp\Playlist.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '../../../Users/HP/AppData/Local/Temp/Playlist.cpp')
+  
+C:\Users\HP\AppData\Local\Temp\Playlist.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '../../../Users/HP/AppData/Local/Temp/Playlist.cpp')
+  
+  Song.cpp
+  spotify.cpp
+C:\project data\spotify\spotify\playlist.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'spotify.cpp')
+  
+C:\project data\spotify\spotify\playlist.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'spotify.cpp')
+  
+  Generating Code...
+  spotify.vcxproj -> C:\project data\spotify\x64\Debug\spotify.exe
